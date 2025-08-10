@@ -29,5 +29,5 @@ ln -sf sb_h_double_arrow col-resize
 ln -sf exchange alias
 ln -sf plus copy
 
-# zoom-in
-# zoom-out
+ln -sf rtl_logo zoom-in
+ln -sf rtl_logo zoom-out
